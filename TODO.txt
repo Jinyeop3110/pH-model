@@ -1,0 +1,4 @@
+
+(1) From N species with gaussian g,k distribution (env_steady is centered distributed), can we generate bipolar community-level env_steady?
+
+(2) From N species with gaussian g,k distribution, can we generate the two big regimes + small microstate
